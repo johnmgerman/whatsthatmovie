@@ -1,0 +1,4 @@
+[09-Mar-2018 18:08:14 UTC] PHP Fatal error:  You must enable the intl extension to use CakePHP.
+ in /home/zeeuser3/whatsthatmovie.tk/config/requirements.php on line 31
+[09-Mar-2018 18:16:35 UTC] PHP Fatal error:  You must enable the intl extension to use CakePHP.
+ in /home/zeeuser3/whatsthatmovie.tk/config/requirements.php on line 31
